@@ -514,21 +514,19 @@ export const KlineChart = forwardRef<any, KlineChartProps>(({
     }
 
     // 确保K线数据按时间升序排列（lightweight-charts 要求）
-    // 同时去除重复时间戳的数据，只保留第一根
+    // 使用秒精度去重，因为 lightweight-charts 以秒为单位存储时间
     const timeSeen = new Set<number>();
     const sortedBars = [...bars]
-      .sort((a, b) => {
-        const timeA = new Date(a.timestamp).getTime();
-        const timeB = new Date(b.timestamp).getTime();
-        return timeA - timeB;
-      })
+      .map((bar) => ({
+        ...bar,
+        _sec: Math.floor(new Date(bar.timestamp).getTime() / 1000),
+      }))
+      .sort((a, b) => a._sec - b._sec)
       .filter((bar) => {
-        const time = new Date(bar.timestamp).getTime();
-        if (timeSeen.has(time)) {
-          console.warn('KlineChart: 过滤重复时间戳', bar.timestamp);
+        if (timeSeen.has(bar._sec)) {
           return false;
         }
-        timeSeen.add(time);
+        timeSeen.add(bar._sec);
         return true;
       });
 
@@ -536,7 +534,7 @@ export const KlineChart = forwardRef<any, KlineChartProps>(({
     const pal = getCandlePalette(isAsia);
 
     const candleData: CandlestickData<Time>[] = sortedBars.map((bar) => ({
-      time: (new Date(bar.timestamp).getTime() / 1000) as Time,
+      time: bar._sec as Time,
       open: bar.open,
       high: bar.high,
       low: bar.low,
@@ -548,7 +546,7 @@ export const KlineChart = forwardRef<any, KlineChartProps>(({
     // 更新成交量
     if (volumeSeriesRef.current) {
       const volumeData: HistogramData<Time>[] = sortedBars.map((bar) => ({
-        time: (new Date(bar.timestamp).getTime() / 1000) as Time,
+        time: bar._sec as Time,
         value: bar.volume,
         color: bar.close >= bar.open ? pal.volUp : pal.volDown,
       }));
@@ -560,20 +558,20 @@ export const KlineChart = forwardRef<any, KlineChartProps>(({
       const closes = sortedBars.map((b) => b.close);
       const macd = calculateMACD(closes);
 
-      // DIF 和 DEA
+      // DIF 和 DEA（使用 _sec 保证与 candleData 时间对齐）
       const difData: LineData<Time>[] = macd.dif.map((v, i) => ({
-        time: (new Date(sortedBars[i].timestamp).getTime() / 1000) as Time,
+        time: sortedBars[i]._sec as Time,
         value: v,
       }));
 
       const deaData: LineData<Time>[] = macd.dea.map((v, i) => ({
-        time: (new Date(sortedBars[i].timestamp).getTime() / 1000) as Time,
+        time: sortedBars[i]._sec as Time,
         value: v,
       }));
 
       // MACD 柱状图
       const macdData: HistogramData<Time>[] = macd.macd.map((v, i) => ({
-        time: (new Date(sortedBars[i].timestamp).getTime() / 1000) as Time,
+        time: sortedBars[i]._sec as Time,
         value: v,
         color: v >= 0 ? pal.macdPos : pal.macdNeg,
       }));
