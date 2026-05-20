@@ -1,0 +1,1428 @@
+{
+  "description": "US Stock Historical Events Database - covering 2022-2025 major events for top stocks and macroeconomic events",
+  "last_updated": "2026-05-15",
+  "events": [
+    {
+      "date": "2022-01-27",
+      "symbol": "AAPL",
+      "type": "earnings",
+      "title": "Apple Q1 FY2022 Earnings",
+      "description": "EPS: $2.10 vs $1.89 est. Revenue: $123.9B (+11% YoY). iPhone revenue: $71.6B, Services: $19.5B.",
+      "impact": "positive",
+      "price_reaction": "+6.9%"
+    },
+    {
+      "date": "2022-04-28",
+      "symbol": "AAPL",
+      "type": "earnings",
+      "title": "Apple Q2 FY2022 Earnings",
+      "description": "EPS: $1.52 vs $1.43 est. Revenue: $97.3B (+9% YoY). Warned of $4-8B supply chain impact.",
+      "impact": "neutral",
+      "price_reaction": "+0.2%"
+    },
+    {
+      "date": "2022-07-28",
+      "symbol": "AAPL",
+      "type": "earnings",
+      "title": "Apple Q3 FY2022 Earnings",
+      "description": "EPS: $1.20 vs $1.16 est. Revenue: $83B (+2% YoY). iPhone revenue beat despite macro headwinds.",
+      "impact": "positive",
+      "price_reaction": "+3.3%"
+    },
+    {
+      "date": "2022-10-27",
+      "symbol": "AAPL",
+      "type": "earnings",
+      "title": "Apple Q4 FY2022 Earnings",
+      "description": "EPS: $1.29 vs $1.27 est. Revenue: $90.1B (+8% YoY). Record Services revenue of $19.2B.",
+      "impact": "positive",
+      "price_reaction": "+7.6%"
+    },
+    {
+      "date": "2023-02-02",
+      "symbol": "AAPL",
+      "type": "earnings",
+      "title": "Apple Q1 FY2023 Earnings",
+      "description": "EPS: $1.88 vs $1.94 est. Revenue: $117.2B (-5.5% YoY). First revenue miss since 2016.",
+      "impact": "negative",
+      "price_reaction": "-3.2%"
+    },
+    {
+      "date": "2023-05-04",
+      "symbol": "AAPL",
+      "type": "earnings",
+      "title": "Apple Q2 FY2023 Earnings",
+      "description": "EPS: $1.52 vs $1.43 est. Revenue: $94.8B (-3% YoY). iPhone sales stronger than expected.",
+      "impact": "positive",
+      "price_reaction": "+4.7%"
+    },
+    {
+      "date": "2023-06-05",
+      "symbol": "AAPL",
+      "type": "corporate",
+      "title": "Apple Vision Pro Announced at WWDC 2023",
+      "description": "Apple unveiled its first spatial computer, the Vision Pro, priced at $3,499. Mixed reality headset with eye and hand tracking.",
+      "impact": "neutral",
+      "price_reaction": "-0.8%"
+    },
+    {
+      "date": "2023-08-03",
+      "symbol": "AAPL",
+      "type": "earnings",
+      "title": "Apple Q3 FY2023 Earnings",
+      "description": "EPS: $1.26 vs $1.19 est. Revenue: $81.8B (-1.4% YoY). Services revenue hit record $21.2B.",
+      "impact": "positive",
+      "price_reaction": "+0.5%"
+    },
+    {
+      "date": "2023-09-12",
+      "symbol": "AAPL",
+      "type": "corporate",
+      "title": "iPhone 15 Launch Event",
+      "description": "Apple announced iPhone 15 lineup with USB-C, A17 Pro chip, titanium frame for Pro models. New Apple Watch Series 9.",
+      "impact": "neutral",
+      "price_reaction": "-1.7%"
+    },
+    {
+      "date": "2023-11-02",
+      "symbol": "AAPL",
+      "type": "earnings",
+      "title": "Apple Q4 FY2023 Earnings",
+      "description": "EPS: $1.46 vs $1.39 est. Revenue: $89.5B (-1% YoY). All-time high Services revenue of $22.3B.",
+      "impact": "positive",
+      "price_reaction": "+0.5%"
+    },
+    {
+      "date": "2024-01-30",
+      "symbol": "AAPL",
+      "type": "earnings",
+      "title": "Apple Q1 FY2024 Earnings",
+      "description": "EPS: $2.18 vs $2.10 est. Revenue: $119.6B (+2% YoY). iPhone revenue: $69.7B, Services: $23.1B record.",
+      "impact": "positive",
+      "price_reaction": "+1.2%"
+    },
+    {
+      "date": "2024-02-02",
+      "symbol": "AAPL",
+      "type": "corporate",
+      "title": "Apple Vision Pro Official Launch",
+      "description": "Apple Vision Pro went on sale in the US at $3,499. 180,000+ pre-orders reported in first weekend.",
+      "impact": "neutral",
+      "price_reaction": "+0.5%"
+    },
+    {
+      "date": "2024-05-02",
+      "symbol": "AAPL",
+      "type": "earnings",
+      "title": "Apple Q2 FY2024 Earnings",
+      "description": "EPS: $1.53 vs $1.50 est. Revenue: $90.8B (-4.3% YoY). Announced $110B buyback, largest in US history.",
+      "impact": "positive",
+      "price_reaction": "+6.0%"
+    },
+    {
+      "date": "2024-06-10",
+      "symbol": "AAPL",
+      "type": "corporate",
+      "title": "Apple Intelligence Announced at WWDC 2024",
+      "description": "Apple unveiled AI strategy with 'Apple Intelligence' — generative AI features across iPhone, iPad, and Mac, including ChatGPT integration.",
+      "impact": "positive",
+      "price_reaction": "+7.3%"
+    },
+    {
+      "date": "2024-08-01",
+      "symbol": "AAPL",
+      "type": "earnings",
+      "title": "Apple Q3 FY2024 Earnings",
+      "description": "EPS: $1.40 vs $1.35 est. Revenue: $85.8B (+5% YoY). Services revenue surged to $24.2B.",
+      "impact": "positive",
+      "price_reaction": "+1.8%"
+    },
+    {
+      "date": "2024-09-09",
+      "symbol": "AAPL",
+      "type": "corporate",
+      "title": "iPhone 16 Launch — AI-Focused",
+      "description": "Apple announced iPhone 16 lineup built for Apple Intelligence. New Camera Control button, A18 chips, larger displays on Pro models.",
+      "impact": "neutral",
+      "price_reaction": "+0.04%"
+    },
+    {
+      "date": "2024-10-31",
+      "symbol": "AAPL",
+      "type": "earnings",
+      "title": "Apple Q4 FY2024 Earnings",
+      "description": "EPS: $1.64 vs $1.60 est. Revenue: $94.9B (+6% YoY). iPhone 16 initial sales strong. Services at record $25B.",
+      "impact": "positive",
+      "price_reaction": "+1.5%"
+    },
+    {
+      "date": "2022-01-25",
+      "symbol": "MSFT",
+      "type": "earnings",
+      "title": "Microsoft Q2 FY2022 Earnings",
+      "description": "EPS: $2.48 vs $2.31 est. Revenue: $51.7B (+20% YoY). Azure growth: +46%.",
+      "impact": "positive",
+      "price_reaction": "+3.4%"
+    },
+    {
+      "date": "2022-04-26",
+      "symbol": "MSFT",
+      "type": "earnings",
+      "title": "Microsoft Q3 FY2022 Earnings",
+      "description": "EPS: $2.22 vs $2.19 est. Revenue: $49.4B (+18% YoY). Cloud revenue: $23.4B (+32% YoY).",
+      "impact": "positive",
+      "price_reaction": "+4.8%"
+    },
+    {
+      "date": "2022-07-26",
+      "symbol": "MSFT",
+      "type": "earnings",
+      "title": "Microsoft Q4 FY2022 Earnings",
+      "description": "EPS: $2.23 vs $2.29 est. Revenue: $51.9B (+12% YoY). Weak guidance due to strong dollar.",
+      "impact": "negative",
+      "price_reaction": "-2.7%"
+    },
+    {
+      "date": "2022-10-25",
+      "symbol": "MSFT",
+      "type": "earnings",
+      "title": "Microsoft Q1 FY2023 Earnings",
+      "description": "EPS: $2.35 vs $2.30 est. Revenue: $50.1B (+11% YoY). Cloud revenue beat estimates.",
+      "impact": "positive",
+      "price_reaction": "+1.0%"
+    },
+    {
+      "date": "2023-01-24",
+      "symbol": "MSFT",
+      "type": "earnings",
+      "title": "Microsoft Q2 FY2023 Earnings",
+      "description": "EPS: $2.32 vs $2.29 est. Revenue: $52.7B (+2% YoY). Azure growth slowed to 38%.",
+      "impact": "neutral",
+      "price_reaction": "-0.2%"
+    },
+    {
+      "date": "2023-01-23",
+      "symbol": "MSFT",
+      "type": "corporate",
+      "title": "Microsoft Announces $10B Investment in OpenAI",
+      "description": "Microsoft announced multi-year, multi-billion dollar investment in OpenAI, deepening partnership for ChatGPT and DALL-E integration.",
+      "impact": "positive",
+      "price_reaction": "+4.0%"
+    },
+    {
+      "date": "2023-04-25",
+      "symbol": "MSFT",
+      "type": "earnings",
+      "title": "Microsoft Q3 FY2023 Earnings",
+      "description": "EPS: $2.45 vs $2.23 est. Revenue: $52.9B (+7% YoY). Azure growth: +27%. AI-driven demand boost.",
+      "impact": "positive",
+      "price_reaction": "+7.2%"
+    },
+    {
+      "date": "2023-07-25",
+      "symbol": "MSFT",
+      "type": "earnings",
+      "title": "Microsoft Q4 FY2023 Earnings",
+      "description": "EPS: $2.69 vs $2.55 est. Revenue: $56.2B (+8% YoY). AI Copilot driving growth.",
+      "impact": "positive",
+      "price_reaction": "+1.5%"
+    },
+    {
+      "date": "2023-10-24",
+      "symbol": "MSFT",
+      "type": "earnings",
+      "title": "Microsoft Q1 FY2024 Earnings",
+      "description": "EPS: $2.99 vs $2.65 est. Revenue: $56.5B (+13% YoY). Azure growth accelerated to 29%.",
+      "impact": "positive",
+      "price_reaction": "+3.1%"
+    },
+    {
+      "date": "2023-11-17",
+      "symbol": "MSFT",
+      "type": "corporate",
+      "title": "Sam Altman Joins Microsoft After OpenAI Ouster",
+      "description": "After Sam Altman was fired as OpenAI CEO, Microsoft hired him to lead a new AI research team. He returned to OpenAI 5 days later.",
+      "impact": "positive",
+      "price_reaction": "+2.1%"
+    },
+    {
+      "date": "2024-01-30",
+      "symbol": "MSFT",
+      "type": "earnings",
+      "title": "Microsoft Q2 FY2024 Earnings",
+      "description": "EPS: $2.93 vs $2.78 est. Revenue: $62.0B (+18% YoY). Azure growth: +30%, 6 points from AI. Market cap crossed $3T.",
+      "impact": "positive",
+      "price_reaction": "+0.8%"
+    },
+    {
+      "date": "2024-04-25",
+      "symbol": "MSFT",
+      "type": "earnings",
+      "title": "Microsoft Q3 FY2024 Earnings",
+      "description": "EPS: $2.94 vs $2.82 est. Revenue: $61.9B (+17% YoY). Azure +31%, AI contribution accelerating.",
+      "impact": "positive",
+      "price_reaction": "+2.3%"
+    },
+    {
+      "date": "2024-07-30",
+      "symbol": "MSFT",
+      "type": "earnings",
+      "title": "Microsoft Q4 FY2024 Earnings",
+      "description": "EPS: $2.95 vs $2.93 est. Revenue: $64.7B (+15% YoY). Azure +33%. AI revenue run rate: $5B+.",
+      "impact": "positive",
+      "price_reaction": "+0.5%"
+    },
+    {
+      "date": "2024-10-30",
+      "symbol": "MSFT",
+      "type": "earnings",
+      "title": "Microsoft Q1 FY2025 Earnings",
+      "description": "EPS: $3.30 vs $3.10 est. Revenue: $65.6B (+16% YoY). AI Copilot subscriptions doubling quarterly.",
+      "impact": "positive",
+      "price_reaction": "+2.1%"
+    },
+    {
+      "date": "2022-02-01",
+      "symbol": "GOOGL",
+      "type": "earnings",
+      "title": "Alphabet Q4 2021 Earnings",
+      "description": "EPS: $30.69 vs $27.35 est. Revenue: $75.3B (+32% YoY). Announced 20-for-1 stock split.",
+      "impact": "positive",
+      "price_reaction": "+7.5%"
+    },
+    {
+      "date": "2022-04-26",
+      "symbol": "GOOGL",
+      "type": "earnings",
+      "title": "Alphabet Q1 2022 Earnings",
+      "description": "EPS: $24.62 vs $25.91 est. Revenue: $68B (+23% YoY). YouTube ad revenue missed estimates.",
+      "impact": "negative",
+      "price_reaction": "-3.8%"
+    },
+    {
+      "date": "2022-07-18",
+      "symbol": "GOOGL",
+      "type": "split",
+      "title": "Alphabet 20-for-1 Stock Split",
+      "description": "Google parent Alphabet executed a 20-for-1 stock split, reducing share price from ~$2,200 to ~$110.",
+      "impact": "neutral",
+      "price_reaction": "+0.3%"
+    },
+    {
+      "date": "2022-07-26",
+      "symbol": "GOOGL",
+      "type": "earnings",
+      "title": "Alphabet Q2 2022 Earnings",
+      "description": "EPS: $1.21 vs $1.28 est. Revenue: $69.7B (+13% YoY). Ad slowdown fears confirmed.",
+      "impact": "negative",
+      "price_reaction": "-0.2%"
+    },
+    {
+      "date": "2022-10-25",
+      "symbol": "GOOGL",
+      "type": "earnings",
+      "title": "Alphabet Q3 2022 Earnings",
+      "description": "EPS: $1.06 vs $1.25 est. Revenue: $69.1B (+6% YoY). YouTube ad revenue declined for first time.",
+      "impact": "negative",
+      "price_reaction": "-9.1%"
+    },
+    {
+      "date": "2023-02-02",
+      "symbol": "GOOGL",
+      "type": "earnings",
+      "title": "Alphabet Q4 2022 Earnings",
+      "description": "EPS: $1.05 vs $1.18 est. Revenue: $76B (+1% YoY). Miss across Search, YouTube, and Cloud.",
+      "impact": "negative",
+      "price_reaction": "-3.3%"
+    },
+    {
+      "date": "2023-02-06",
+      "symbol": "GOOGL",
+      "type": "corporate",
+      "title": "Google Announces Bard AI (predecessor to Gemini)",
+      "description": "Google announced Bard, its conversational AI service to compete with ChatGPT. Early demo had a factual error.",
+      "impact": "negative",
+      "price_reaction": "-7.7%"
+    },
+    {
+      "date": "2023-04-25",
+      "symbol": "GOOGL",
+      "type": "earnings",
+      "title": "Alphabet Q1 2023 Earnings",
+      "description": "EPS: $1.17 vs $1.07 est. Revenue: $69.8B (+3% YoY). Announced $70B buyback. Cloud profitable for first time.",
+      "impact": "positive",
+      "price_reaction": "+2.5%"
+    },
+    {
+      "date": "2023-07-25",
+      "symbol": "GOOGL",
+      "type": "earnings",
+      "title": "Alphabet Q2 2023 Earnings",
+      "description": "EPS: $1.44 vs $1.34 est. Revenue: $74.6B (+7% YoY). Cloud revenue +28%. Ad rebound confirmed.",
+      "impact": "positive",
+      "price_reaction": "+5.8%"
+    },
+    {
+      "date": "2023-10-24",
+      "symbol": "GOOGL",
+      "type": "earnings",
+      "title": "Alphabet Q3 2023 Earnings",
+      "description": "EPS: $1.55 vs $1.45 est. Revenue: $76.7B (+11% YoY). Cloud revenue missed expectations.",
+      "impact": "negative",
+      "price_reaction": "-9.5%"
+    },
+    {
+      "date": "2023-12-06",
+      "symbol": "GOOGL",
+      "type": "corporate",
+      "title": "Google Launches Gemini AI Model",
+      "description": "Google launched Gemini, its most capable AI model with multimodal capabilities. Available in Ultra, Pro, and Nano sizes.",
+      "impact": "positive",
+      "price_reaction": "+5.3%"
+    },
+    {
+      "date": "2024-01-30",
+      "symbol": "GOOGL",
+      "type": "earnings",
+      "title": "Alphabet Q4 2023 Earnings",
+      "description": "EPS: $1.64 vs $1.59 est. Revenue: $86.3B (+13% YoY). Ad revenue: $65.5B. Cloud: $9.2B.",
+      "impact": "negative",
+      "price_reaction": "-7.4%"
+    },
+    {
+      "date": "2024-04-25",
+      "symbol": "GOOGL",
+      "type": "earnings",
+      "title": "Alphabet Q1 2024 Earnings",
+      "description": "EPS: $1.89 vs $1.51 est. Revenue: $80.5B (+15% YoY). First-ever dividend ($0.20/share) + $70B buyback.",
+      "impact": "positive",
+      "price_reaction": "+10.2%"
+    },
+    {
+      "date": "2024-07-23",
+      "symbol": "GOOGL",
+      "type": "earnings",
+      "title": "Alphabet Q2 2024 Earnings",
+      "description": "EPS: $1.89 vs $1.84 est. Revenue: $84.7B (+14% YoY). Cloud surpassed $10B quarterly for first time.",
+      "impact": "positive",
+      "price_reaction": "+0.7%"
+    },
+    {
+      "date": "2024-10-29",
+      "symbol": "GOOGL",
+      "type": "earnings",
+      "title": "Alphabet Q3 2024 Earnings",
+      "description": "EPS: $2.12 vs $1.85 est. Revenue: $88.3B (+15% YoY). All segments beat. Cloud: $11.4B.",
+      "impact": "positive",
+      "price_reaction": "+2.8%"
+    },
+    {
+      "date": "2022-02-03",
+      "symbol": "AMZN",
+      "type": "earnings",
+      "title": "Amazon Q4 2021 Earnings",
+      "description": "EPS: $27.85 vs $3.66 est (Rivian investment gain). Revenue: $137.4B (+9% YoY). AWS revenue: $17.8B.",
+      "impact": "positive",
+      "price_reaction": "+13.5%"
+    },
+    {
+      "date": "2022-04-28",
+      "symbol": "AMZN",
+      "type": "earnings",
+      "title": "Amazon Q1 2022 Earnings",
+      "description": "EPS: -$7.56 (Rivian writedown). Revenue: $116.4B (+7% YoY). AWS: $18.4B (+37% YoY).",
+      "impact": "negative",
+      "price_reaction": "-14.0%"
+    },
+    {
+      "date": "2022-06-06",
+      "symbol": "AMZN",
+      "type": "split",
+      "title": "Amazon 20-for-1 Stock Split",
+      "description": "Amazon executed a 20-for-1 stock split, its first since 1999, bringing share price from ~$2,500 to ~$125.",
+      "impact": "neutral",
+      "price_reaction": "+1.9%"
+    },
+    {
+      "date": "2022-07-28",
+      "symbol": "AMZN",
+      "type": "earnings",
+      "title": "Amazon Q2 2022 Earnings",
+      "description": "EPS: -$0.20 vs $0.14 est. Revenue: $121.2B (+7% YoY). AWS: $19.7B (+33%). Strong Q3 guidance.",
+      "impact": "positive",
+      "price_reaction": "+10.4%"
+    },
+    {
+      "date": "2023-02-02",
+      "symbol": "AMZN",
+      "type": "earnings",
+      "title": "Amazon Q4 2022 Earnings",
+      "description": "EPS: $0.03 vs $0.17 est. Revenue: $149.2B (+9% YoY). AWS growth slowed to 20%.",
+      "impact": "negative",
+      "price_reaction": "-8.4%"
+    },
+    {
+      "date": "2023-04-27",
+      "symbol": "AMZN",
+      "type": "earnings",
+      "title": "Amazon Q1 2023 Earnings",
+      "description": "EPS: $0.31 vs $0.15 est. Revenue: $127.4B (+9% YoY). AWS growth stabilized at 16%.",
+      "impact": "positive",
+      "price_reaction": "+4.6%"
+    },
+    {
+      "date": "2023-08-03",
+      "symbol": "AMZN",
+      "type": "earnings",
+      "title": "Amazon Q2 2023 Earnings",
+      "description": "EPS: $0.65 vs $0.35 est. Revenue: $134.4B (+11% YoY). AWS growth reaccelerated to 12%.",
+      "impact": "positive",
+      "price_reaction": "+8.3%"
+    },
+    {
+      "date": "2023-10-26",
+      "symbol": "AMZN",
+      "type": "earnings",
+      "title": "Amazon Q3 2023 Earnings",
+      "description": "EPS: $0.94 vs $0.58 est. Revenue: $143.1B (+13% YoY). AWS +12%. Advertising: $12.1B.",
+      "impact": "positive",
+      "price_reaction": "+6.8%"
+    },
+    {
+      "date": "2024-02-01",
+      "symbol": "AMZN",
+      "type": "earnings",
+      "title": "Amazon Q4 2023 Earnings",
+      "description": "EPS: $1.00 vs $0.80 est. Revenue: $170B (+14% YoY). AWS +13%. Record holiday quarter.",
+      "impact": "positive",
+      "price_reaction": "+7.9%"
+    },
+    {
+      "date": "2024-04-30",
+      "symbol": "AMZN",
+      "type": "earnings",
+      "title": "Amazon Q1 2024 Earnings",
+      "description": "EPS: $0.98 vs $0.83 est. Revenue: $143.3B (+13% YoY). AWS growth accelerated to +17%. AI demand surging.",
+      "impact": "positive",
+      "price_reaction": "+0.7%"
+    },
+    {
+      "date": "2024-08-01",
+      "symbol": "AMZN",
+      "type": "earnings",
+      "title": "Amazon Q2 2024 Earnings",
+      "description": "EPS: $1.26 vs $1.03 est. Revenue: $148B (+10% YoY). AWS +19%. Ad revenue: $12.8B.",
+      "impact": "positive",
+      "price_reaction": "+3.5%"
+    },
+    {
+      "date": "2024-10-31",
+      "symbol": "AMZN",
+      "type": "earnings",
+      "title": "Amazon Q3 2024 Earnings",
+      "description": "EPS: $1.43 vs $1.14 est. Revenue: $158.9B (+11% YoY). AWS +20%. Operating income tripled YoY.",
+      "impact": "positive",
+      "price_reaction": "+6.2%"
+    },
+    {
+      "date": "2022-02-16",
+      "symbol": "NVDA",
+      "type": "earnings",
+      "title": "NVIDIA Q4 FY2022 Earnings",
+      "description": "EPS: $1.32 vs $1.22 est. Revenue: $7.64B (+53% YoY). Data center: $3.26B, Gaming: $3.42B.",
+      "impact": "positive",
+      "price_reaction": "+2.5%"
+    },
+    {
+      "date": "2022-05-25",
+      "symbol": "NVDA",
+      "type": "earnings",
+      "title": "NVIDIA Q1 FY2023 Earnings",
+      "description": "EPS: $1.36 vs $1.29 est. Revenue: $8.29B (+46% YoY). Data center revenue surpassed gaming for first time.",
+      "impact": "positive",
+      "price_reaction": "+5.2%"
+    },
+    {
+      "date": "2022-08-24",
+      "symbol": "NVDA",
+      "type": "earnings",
+      "title": "NVIDIA Q2 FY2023 Earnings",
+      "description": "EPS: $0.51 vs $1.25 est. Revenue: $6.7B (+3% YoY). Gaming revenue crashed 33%. Preliminary warning was issued 2 weeks prior.",
+      "impact": "negative",
+      "price_reaction": "-4.1%"
+    },
+    {
+      "date": "2022-11-16",
+      "symbol": "NVDA",
+      "type": "earnings",
+      "title": "NVIDIA Q3 FY2023 Earnings",
+      "description": "EPS: $0.58 vs $0.71 est. Revenue: $5.93B (-17% YoY). Gaming: -51%. Data center: +31%. Crypto mining collapse impact.",
+      "impact": "negative",
+      "price_reaction": "-1.5%"
+    },
+    {
+      "date": "2023-02-22",
+      "symbol": "NVDA",
+      "type": "earnings",
+      "title": "NVIDIA Q4 FY2023 Earnings",
+      "description": "EPS: $0.88 vs $0.81 est. Revenue: $6.05B (-21% YoY). Data center: $3.62B, AI driving recovery.",
+      "impact": "positive",
+      "price_reaction": "+14.0%"
+    },
+    {
+      "date": "2023-05-24",
+      "symbol": "NVDA",
+      "type": "earnings",
+      "title": "NVIDIA Q1 FY2024 Earnings — AI Boom Begins",
+      "description": "EPS: $1.09 vs $0.92 est. Revenue: $7.19B. Q2 guidance: $11B (vs $7.2B est). 'New computing era' — Jensen Huang.",
+      "impact": "positive",
+      "price_reaction": "+24.4%"
+    },
+    {
+      "date": "2023-08-23",
+      "symbol": "NVDA",
+      "type": "earnings",
+      "title": "NVIDIA Q2 FY2024 Earnings",
+      "description": "EPS: $2.70 vs $2.09 est. Revenue: $13.51B (+101% YoY). Data center: $10.3B. Q3 guidance: $16B.",
+      "impact": "positive",
+      "price_reaction": "+0.1%"
+    },
+    {
+      "date": "2023-11-21",
+      "symbol": "NVDA",
+      "type": "earnings",
+      "title": "NVIDIA Q3 FY2024 Earnings",
+      "description": "EPS: $4.02 vs $3.37 est. Revenue: $18.12B (+206% YoY). Warned China export restrictions would impact Q4.",
+      "impact": "positive",
+      "price_reaction": "-2.5%"
+    },
+    {
+      "date": "2024-02-21",
+      "symbol": "NVDA",
+      "type": "earnings",
+      "title": "NVIDIA Q4 FY2024 Earnings — Historic Quarter",
+      "description": "EPS: $5.16 vs $4.64 est. Revenue: $22.1B (+265% YoY). Data center: $18.4B. 'AI has hit the tipping point'.",
+      "impact": "positive",
+      "price_reaction": "+16.4%"
+    },
+    {
+      "date": "2024-03-18",
+      "symbol": "NVDA",
+      "type": "corporate",
+      "title": "NVIDIA GTC 2024 — Blackwell Platform Unveiled",
+      "description": "Jensen Huang unveiled Blackwell B200 GPU, the 'world's most powerful chip' with 208B transistors. 4x faster than H100 for AI training.",
+      "impact": "positive",
+      "price_reaction": "+1.7%"
+    },
+    {
+      "date": "2024-05-22",
+      "symbol": "NVDA",
+      "type": "earnings",
+      "title": "NVIDIA Q1 FY2025 Earnings",
+      "description": "EPS: $6.12 vs $5.59 est. Revenue: $26.0B (+262% YoY). 10-for-1 stock split announced. Dividend raised 150%.",
+      "impact": "positive",
+      "price_reaction": "+9.3%"
+    },
+    {
+      "date": "2024-06-07",
+      "symbol": "NVDA",
+      "type": "split",
+      "title": "NVIDIA 10-for-1 Stock Split",
+      "description": "NVIDIA executed 10-for-1 stock split, bringing share price from ~$1,200 to ~$120. Market cap at $3T.",
+      "impact": "positive",
+      "price_reaction": "+0.4%"
+    },
+    {
+      "date": "2024-08-28",
+      "symbol": "NVDA",
+      "type": "earnings",
+      "title": "NVIDIA Q2 FY2025 Earnings",
+      "description": "EPS: $0.68 vs $0.64 est. Revenue: $30.0B (+122% YoY). Blackwell delay concerns addressed. $50B buyback.",
+      "impact": "positive",
+      "price_reaction": "-6.4%"
+    },
+    {
+      "date": "2024-11-20",
+      "symbol": "NVDA",
+      "type": "earnings",
+      "title": "NVIDIA Q3 FY2025 Earnings",
+      "description": "EPS: $0.81 vs $0.75 est. Revenue: $35.1B (+94% YoY). Blackwell ramp on track. Data center demand still supply-constrained.",
+      "impact": "positive",
+      "price_reaction": "+0.5%"
+    },
+    {
+      "date": "2022-04-20",
+      "symbol": "TSLA",
+      "type": "earnings",
+      "title": "Tesla Q1 2022 Earnings",
+      "description": "EPS: $3.22 vs $2.26 est. Revenue: $18.8B (+81% YoY). Record deliveries: 310k vehicles.",
+      "impact": "positive",
+      "price_reaction": "+1.6%"
+    },
+    {
+      "date": "2022-07-20",
+      "symbol": "TSLA",
+      "type": "earnings",
+      "title": "Tesla Q2 2022 Earnings",
+      "description": "EPS: $2.27 vs $1.81 est. Revenue: $16.9B (+42% YoY). Bitcoin impairment: $170M. Sold 75% of BTC holdings.",
+      "impact": "positive",
+      "price_reaction": "+9.8%"
+    },
+    {
+      "date": "2022-08-04",
+      "symbol": "TSLA",
+      "type": "corporate",
+      "title": "Tesla 2022 Shareholder Meeting — 3-for-1 Stock Split",
+      "description": "Tesla shareholders approved a 3-for-1 stock split. Elon Musk reaffirmed full self-driving timeline.",
+      "impact": "neutral",
+      "price_reaction": "+0.4%"
+    },
+    {
+      "date": "2022-10-19",
+      "symbol": "TSLA",
+      "type": "earnings",
+      "title": "Tesla Q3 2022 Earnings",
+      "description": "EPS: $1.05 vs $0.99 est. Revenue: $21.5B (+56% YoY). Missed delivery expectations. Musk: 'recession concerns'.",
+      "impact": "negative",
+      "price_reaction": "-6.6%"
+    },
+    {
+      "date": "2022-10-27",
+      "symbol": "TSLA",
+      "type": "corporate",
+      "title": "Elon Musk Completes Twitter Acquisition",
+      "description": "Elon Musk completed his $44B acquisition of Twitter, taking the company private. Concerns about his divided attention.",
+      "impact": "negative",
+      "price_reaction": "-5.2%"
+    },
+    {
+      "date": "2023-01-25",
+      "symbol": "TSLA",
+      "type": "earnings",
+      "title": "Tesla Q4 2022 Earnings",
+      "description": "EPS: $1.19 vs $1.13 est. Revenue: $24.3B (+37% YoY). Aggressive price cuts announced. 2023 delivery guidance: 1.8M.",
+      "impact": "positive",
+      "price_reaction": "+11.0%"
+    },
+    {
+      "date": "2023-04-19",
+      "symbol": "TSLA",
+      "type": "earnings",
+      "title": "Tesla Q1 2023 Earnings",
+      "description": "EPS: $0.85 vs $0.85 est. Revenue: $23.3B (+24% YoY). Margins compressed to 19.3% (vs 29.1% a year ago).",
+      "impact": "negative",
+      "price_reaction": "-9.8%"
+    },
+    {
+      "date": "2023-07-19",
+      "symbol": "TSLA",
+      "type": "earnings",
+      "title": "Tesla Q2 2023 Earnings",
+      "description": "EPS: $0.91 vs $0.82 est. Revenue: $24.9B (+47% YoY). Record deliveries: 466k. Cybertruck: 'first deliveries in 2023'.",
+      "impact": "positive",
+      "price_reaction": "-0.7%"
+    },
+    {
+      "date": "2023-10-18",
+      "symbol": "TSLA",
+      "type": "earnings",
+      "title": "Tesla Q3 2023 Earnings",
+      "description": "EPS: $0.66 vs $0.73 est. Revenue: $23.4B (+9% YoY). Missed on both. Margins hit 17.9%. Cybertruck launch Nov 30.",
+      "impact": "negative",
+      "price_reaction": "-9.3%"
+    },
+    {
+      "date": "2023-11-30",
+      "symbol": "TSLA",
+      "type": "corporate",
+      "title": "Cybertruck Delivery Event",
+      "description": "Tesla delivered first Cybertrucks at Austin Gigafactory. Base price $60,990 (higher than initially promised $39,900).",
+      "impact": "neutral",
+      "price_reaction": "-1.7%"
+    },
+    {
+      "date": "2024-01-24",
+      "symbol": "TSLA",
+      "type": "earnings",
+      "title": "Tesla Q4 2023 Earnings",
+      "description": "EPS: $0.71 vs $0.74 est. Revenue: $25.2B (+3% YoY). Warned of 'notably lower' 2024 volume growth. No guidance number.",
+      "impact": "negative",
+      "price_reaction": "-12.1%"
+    },
+    {
+      "date": "2024-04-23",
+      "symbol": "TSLA",
+      "type": "earnings",
+      "title": "Tesla Q1 2024 Earnings",
+      "description": "EPS: $0.45 vs $0.51 est. Revenue: $21.3B (-9% YoY, first decline since 2020). Announced layoffs of 10%+ workforce.",
+      "impact": "negative",
+      "price_reaction": "+12.1%"
+    },
+    {
+      "date": "2024-07-23",
+      "symbol": "TSLA",
+      "type": "earnings",
+      "title": "Tesla Q2 2024 Earnings",
+      "description": "EPS: $0.52 vs $0.62 est. Revenue: $25.5B (+2% YoY). Robotaxi event pushed to Oct 10. Energy storage at record.",
+      "impact": "negative",
+      "price_reaction": "-12.3%"
+    },
+    {
+      "date": "2024-10-10",
+      "symbol": "TSLA",
+      "type": "corporate",
+      "title": "Tesla 'We Robot' Robotaxi Event",
+      "description": "Tesla unveiled Cybercab robotaxi (no steering wheel/pedals, <$30k), Robovan, and Optimus robots. Production 'before 2027'.",
+      "impact": "negative",
+      "price_reaction": "-8.8%"
+    },
+    {
+      "date": "2024-10-23",
+      "symbol": "TSLA",
+      "type": "earnings",
+      "title": "Tesla Q3 2024 Earnings",
+      "description": "EPS: $0.72 vs $0.58 est. Revenue: $25.2B (+8% YoY). Profit beat on lower costs. 2025 delivery growth: 20-30%.",
+      "impact": "positive",
+      "price_reaction": "+21.9%"
+    },
+    {
+      "date": "2022-02-02",
+      "symbol": "META",
+      "type": "earnings",
+      "title": "Meta Q4 2021 Earnings",
+      "description": "EPS: $3.67 vs $3.84 est. Revenue: $33.7B (+20% YoY). DAU declined for first time. Weak Q1 guidance. Zuckerberg: 'focus on Reels and metaverse'.",
+      "impact": "negative",
+      "price_reaction": "-26.4%"
+    },
+    {
+      "date": "2022-04-27",
+      "symbol": "META",
+      "type": "earnings",
+      "title": "Meta Q1 2022 Earnings",
+      "description": "EPS: $2.72 vs $2.56 est. Revenue: $27.9B (+7% YoY). DAU rebounded. Metaverse losses: $2.96B.",
+      "impact": "positive",
+      "price_reaction": "+17.6%"
+    },
+    {
+      "date": "2022-07-27",
+      "symbol": "META",
+      "type": "earnings",
+      "title": "Meta Q2 2022 Earnings",
+      "description": "EPS: $2.46 vs $2.59 est. Revenue: $28.8B (-1% YoY, first decline). Warned of 'economic downturn'.",
+      "impact": "negative",
+      "price_reaction": "-5.2%"
+    },
+    {
+      "date": "2022-10-26",
+      "symbol": "META",
+      "type": "earnings",
+      "title": "Meta Q3 2022 Earnings",
+      "description": "EPS: $1.64 vs $1.89 est. Revenue: $27.7B (-4% YoY). CapEx guidance raised. Metaverse losses accelerating.",
+      "impact": "negative",
+      "price_reaction": "-24.6%"
+    },
+    {
+      "date": "2022-11-09",
+      "symbol": "META",
+      "type": "corporate",
+      "title": "Meta Announces 11,000 Layoffs — First Mass Layoff",
+      "description": "Mark Zuckerberg announced 11,000 job cuts (~13% of workforce), first mass layoff in company history. 'Year of Efficiency' begins.",
+      "impact": "positive",
+      "price_reaction": "+5.2%"
+    },
+    {
+      "date": "2023-02-01",
+      "symbol": "META",
+      "type": "earnings",
+      "title": "Meta Q4 2022 Earnings",
+      "description": "EPS: $1.76 vs $2.22 est. Revenue: $32.2B (-4% YoY). Announced $40B buyback. Expense cuts positive.",
+      "impact": "positive",
+      "price_reaction": "+23.3%"
+    },
+    {
+      "date": "2023-03-14",
+      "symbol": "META",
+      "type": "corporate",
+      "title": "Meta Announces 10,000 More Layoffs",
+      "description": "Meta announced another 10,000 layoffs and 5,000 open role closures as part of 'Year of Efficiency'. Total cuts: 21,000.",
+      "impact": "positive",
+      "price_reaction": "+7.3%"
+    },
+    {
+      "date": "2023-04-26",
+      "symbol": "META",
+      "type": "earnings",
+      "title": "Meta Q1 2023 Earnings",
+      "description": "EPS: $2.20 vs $2.03 est. Revenue: $28.6B (+3% YoY). First revenue growth in 4 quarters. AI ad tools working.",
+      "impact": "positive",
+      "price_reaction": "+13.9%"
+    },
+    {
+      "date": "2023-07-05",
+      "symbol": "META",
+      "type": "corporate",
+      "title": "Threads Launch — 'Twitter Killer'",
+      "description": "Meta launched Threads, its Twitter/X competitor. Reached 100M users in 5 days, fastest-growing app in history.",
+      "impact": "positive",
+      "price_reaction": "+3.0%"
+    },
+    {
+      "date": "2023-07-26",
+      "symbol": "META",
+      "type": "earnings",
+      "title": "Meta Q2 2023 Earnings",
+      "description": "EPS: $2.98 vs $2.91 est. Revenue: $32.0B (+11% YoY). Q3 guidance above estimates. Reels monetization improving.",
+      "impact": "positive",
+      "price_reaction": "+4.4%"
+    },
+    {
+      "date": "2023-10-25",
+      "symbol": "META",
+      "type": "earnings",
+      "title": "Meta Q3 2023 Earnings",
+      "description": "EPS: $4.39 vs $3.63 est. Revenue: $34.1B (+23% YoY). Ad revenue surging. Reality Labs losses: $3.7B.",
+      "impact": "positive",
+      "price_reaction": "-3.7%"
+    },
+    {
+      "date": "2024-02-01",
+      "symbol": "META",
+      "type": "earnings",
+      "title": "Meta Q4 2023 Earnings",
+      "description": "EPS: $5.33 vs $4.96 est. Revenue: $40.1B (+25% YoY). First-ever dividend: $0.50/share. $50B buyback expansion.",
+      "impact": "positive",
+      "price_reaction": "+20.3%"
+    },
+    {
+      "date": "2024-04-24",
+      "symbol": "META",
+      "type": "earnings",
+      "title": "Meta Q1 2024 Earnings",
+      "description": "EPS: $4.71 vs $4.32 est. Revenue: $36.5B (+27% YoY). AI spending plans spooked market. Capex raised to $35-40B.",
+      "impact": "negative",
+      "price_reaction": "-10.6%"
+    },
+    {
+      "date": "2024-07-31",
+      "symbol": "META",
+      "type": "earnings",
+      "title": "Meta Q2 2024 Earnings",
+      "description": "EPS: $5.16 vs $4.73 est. Revenue: $39.1B (+22% YoY). AI spending now 'a good thing long-term'. Llama 3.1 open-sourced.",
+      "impact": "positive",
+      "price_reaction": "+4.8%"
+    },
+    {
+      "date": "2024-10-30",
+      "symbol": "META",
+      "type": "earnings",
+      "title": "Meta Q3 2024 Earnings",
+      "description": "EPS: $6.03 vs $5.25 est. Revenue: $40.6B (+19% YoY). AI driving 20%+ ad revenue growth. Reality Labs still burning $4.4B.",
+      "impact": "positive",
+      "price_reaction": "+0.5%"
+    },
+    {
+      "date": "2022-04-13",
+      "symbol": "JPM",
+      "type": "earnings",
+      "title": "JPMorgan Q1 2022 Earnings",
+      "description": "EPS: $2.63 vs $2.72 est. Revenue: $30.7B (-5% YoY). Investment banking fees -31%. Built $902M credit reserves.",
+      "impact": "negative",
+      "price_reaction": "-3.2%"
+    },
+    {
+      "date": "2022-07-14",
+      "symbol": "JPM",
+      "type": "earnings",
+      "title": "JPMorgan Q2 2022 Earnings",
+      "description": "EPS: $2.76 vs $2.88 est. Revenue: $30.7B (+1% YoY). Suspended share buybacks. 'Storm clouds on horizon' — Dimon.",
+      "impact": "negative",
+      "price_reaction": "-3.5%"
+    },
+    {
+      "date": "2022-10-14",
+      "symbol": "JPM",
+      "type": "earnings",
+      "title": "JPMorgan Q3 2022 Earnings",
+      "description": "EPS: $3.12 vs $2.88 est. Revenue: $32.7B (+10% YoY). NII boosted by rising rates. Trading revenue +8%.",
+      "impact": "positive",
+      "price_reaction": "+1.7%"
+    },
+    {
+      "date": "2023-01-13",
+      "symbol": "JPM",
+      "type": "earnings",
+      "title": "JPMorgan Q4 2022 Earnings",
+      "description": "EPS: $3.57 vs $3.07 est. Revenue: $34.5B (+18% YoY). Record NII. Warned of mild recession.",
+      "impact": "positive",
+      "price_reaction": "+2.5%"
+    },
+    {
+      "date": "2023-03-13",
+      "symbol": "JPM",
+      "type": "corporate",
+      "title": "JPMorgan Acquires First Republic Bank in Crisis",
+      "description": "After SVB and Signature Bank failures, JPMorgan led $30B rescue package for First Republic. Later acquired it outright in May.",
+      "impact": "positive",
+      "price_reaction": "+0.8%"
+    },
+    {
+      "date": "2023-05-01",
+      "symbol": "JPM",
+      "type": "corporate",
+      "title": "JPMorgan Acquires First Republic Bank",
+      "description": "JPMorgan Chase acquired most of First Republic Bank for $10.6B in a government-led deal after its collapse. Gained $203B in assets.",
+      "impact": "positive",
+      "price_reaction": "+2.1%"
+    },
+    {
+      "date": "2023-07-14",
+      "symbol": "JPM",
+      "type": "earnings",
+      "title": "JPMorgan Q2 2023 Earnings",
+      "description": "EPS: $4.37 vs $4.00 est. Revenue: $41.3B (+34% YoY). First Republic boost + higher rates driving record NII.",
+      "impact": "positive",
+      "price_reaction": "+0.6%"
+    },
+    {
+      "date": "2023-10-13",
+      "symbol": "JPM",
+      "type": "earnings",
+      "title": "JPMorgan Q3 2023 Earnings",
+      "description": "EPS: $4.33 vs $3.89 est. Revenue: $39.9B (+22% YoY). Jamie Dimon: 'This may be the most dangerous time the world has seen in decades.'",
+      "impact": "positive",
+      "price_reaction": "+1.5%"
+    },
+    {
+      "date": "2022-04-19",
+      "symbol": "JNJ",
+      "type": "earnings",
+      "title": "Johnson & Johnson Q1 2022 Earnings",
+      "description": "EPS: $2.67 vs $2.59 est. Revenue: $23.4B (+5% YoY). Medical devices: +8%. Consumer health: -1.5%.",
+      "impact": "positive",
+      "price_reaction": "+3.1%"
+    },
+    {
+      "date": "2022-07-19",
+      "symbol": "JNJ",
+      "type": "earnings",
+      "title": "Johnson & Johnson Q2 2022 Earnings",
+      "description": "EPS: $2.59 vs $2.54 est. Revenue: $24.0B (+3.9% YoY). Raised full-year guidance despite currency headwinds.",
+      "impact": "positive",
+      "price_reaction": "+0.5%"
+    },
+    {
+      "date": "2022-10-18",
+      "symbol": "JNJ",
+      "type": "earnings",
+      "title": "Johnson & Johnson Q3 2022 Earnings",
+      "description": "EPS: $2.55 vs $2.48 est. Revenue: $23.8B (+1.9% YoY). Announced Kenvue consumer health spin-off plans.",
+      "impact": "positive",
+      "price_reaction": "+0.3%"
+    },
+    {
+      "date": "2023-04-18",
+      "symbol": "JNJ",
+      "type": "earnings",
+      "title": "Johnson & Johnson Q1 2023 Earnings",
+      "description": "EPS: $2.68 vs $2.50 est. Revenue: $24.7B (+5.6% YoY). Raised 2023 guidance. Kenvue IPO planned.",
+      "impact": "positive",
+      "price_reaction": "+0.2%"
+    },
+    {
+      "date": "2023-05-04",
+      "symbol": "JNJ",
+      "type": "corporate",
+      "title": "Kenvue (J&J Consumer Health) IPO",
+      "description": "Johnson & Johnson spun off consumer health unit Kenvue in largest US IPO since Rivian (2021). Raised $3.8B at $41B valuation.",
+      "impact": "neutral",
+      "price_reaction": "+0.4%"
+    },
+    {
+      "date": "2022-01-27",
+      "symbol": "BA",
+      "type": "earnings",
+      "title": "Boeing Q4 2021 Earnings",
+      "description": "EPS: -$7.69 vs -$0.41 est. Revenue: $14.8B (-3% YoY). 787 delivery delays: $4.5B charge. But positive free cash flow for first time since 2019.",
+      "impact": "negative",
+      "price_reaction": "-2.8%"
+    },
+    {
+      "date": "2022-04-27",
+      "symbol": "BA",
+      "type": "earnings",
+      "title": "Boeing Q1 2022 Earnings",
+      "description": "EPS: -$2.75 vs -$0.27 est. Revenue: $14.0B (-8% YoY). 777X delay to 2025. $1.5B in charges.",
+      "impact": "negative",
+      "price_reaction": "-7.5%"
+    },
+    {
+      "date": "2022-07-27",
+      "symbol": "BA",
+      "type": "earnings",
+      "title": "Boeing Q2 2022 Earnings",
+      "description": "EPS: -$0.37 vs -$0.14 est. Revenue: $16.7B (-2% YoY). 787 deliveries resumed after 15-month pause.",
+      "impact": "positive",
+      "price_reaction": "+1.9%"
+    },
+    {
+      "date": "2022-10-26",
+      "symbol": "BA",
+      "type": "earnings",
+      "title": "Boeing Q3 2022 Earnings",
+      "description": "EPS: -$6.18 vs $0.13 est. Revenue: $16.0B (+4% YoY). Massive charges on defense programs: $2.8B.",
+      "impact": "negative",
+      "price_reaction": "-8.8%"
+    },
+    {
+      "date": "2023-04-26",
+      "symbol": "BA",
+      "type": "earnings",
+      "title": "Boeing Q1 2023 Earnings",
+      "description": "EPS: -$1.27 vs -$1.07 est. Revenue: $17.9B (+28% YoY). 737 MAX deliveries ramping. Free cash flow improving.",
+      "impact": "positive",
+      "price_reaction": "+0.4%"
+    },
+    {
+      "date": "2023-07-26",
+      "symbol": "BA",
+      "type": "earnings",
+      "title": "Boeing Q2 2023 Earnings",
+      "description": "EPS: -$0.82 vs -$0.88 est. Revenue: $19.8B (+18% YoY). Commercial deliveries: 136 aircraft. $3B free cash flow.",
+      "impact": "positive",
+      "price_reaction": "+8.7%"
+    },
+    {
+      "date": "2023-10-25",
+      "symbol": "BA",
+      "type": "earnings",
+      "title": "Boeing Q3 2023 Earnings",
+      "description": "EPS: -$3.26 vs -$2.96 est. Revenue: $18.1B (+13% YoY). 737 delivery target cut due to fuselage defect.",
+      "impact": "negative",
+      "price_reaction": "-2.5%"
+    },
+    {
+      "date": "2024-01-05",
+      "symbol": "BA",
+      "type": "corporate",
+      "title": "Alaska Airlines 737 MAX 9 Door Plug Blowout",
+      "description": "An Alaska Airlines 737 MAX 9 suffered a mid-air door plug blowout at 16,000 feet. FAA grounded all 737 MAX 9 aircraft with door plugs.",
+      "impact": "negative",
+      "price_reaction": "-8.0%"
+    },
+    {
+      "date": "2024-01-31",
+      "symbol": "BA",
+      "type": "earnings",
+      "title": "Boeing Q4 2023 Earnings",
+      "description": "EPS: -$0.47 vs -$0.78 est. Revenue: $22.0B (+10% YoY). Withdrew 2024 guidance due to MAX 9 crisis. 'Earn trust back.'",
+      "impact": "neutral",
+      "price_reaction": "+5.3%"
+    },
+    {
+      "date": "2024-03-25",
+      "symbol": "BA",
+      "type": "corporate",
+      "title": "Boeing CEO Dave Calhoun to Step Down",
+      "description": "Boeing announced CEO Dave Calhoun would step down by end of 2024, along with Chairman and Commercial Airplanes head, in sweeping leadership shakeup.",
+      "impact": "positive",
+      "price_reaction": "+1.4%"
+    },
+    {
+      "date": "2024-07-31",
+      "symbol": "BA",
+      "type": "earnings",
+      "title": "Boeing Q2 2024 Earnings",
+      "description": "EPS: -$2.90 vs -$1.91 est. Revenue: $16.9B (-15% YoY). $1.4B loss. New CEO Kelly Ortberg appointed.",
+      "impact": "negative",
+      "price_reaction": "+0.9%"
+    },
+    {
+      "date": "2022-01-10",
+      "symbol": "MACRO",
+      "type": "macro",
+      "title": "Fed Signals March Rate Hike in Minutes",
+      "description": "FOMC minutes from December meeting showed Fed officials discussed accelerating taper and earlier/faster rate hikes, surprising dovish-leaning markets.",
+      "impact": "negative",
+      "price_reaction": "S&P -1.9%"
+    },
+    {
+      "date": "2022-02-10",
+      "symbol": "MACRO",
+      "type": "economic",
+      "title": "January CPI: 7.5% YoY (40-Year High)",
+      "description": "US CPI rose 7.5% YoY in January, the highest since February 1982. Core CPI: 6.0%. Both well above estimates.",
+      "impact": "negative",
+      "price_reaction": "S&P -1.8%"
+    },
+    {
+      "date": "2022-02-24",
+      "symbol": "MACRO",
+      "type": "macro",
+      "title": "Russia Invades Ukraine",
+      "description": "Russia launched a full-scale invasion of Ukraine, triggering global market turmoil. Oil surged above $100/barrel for first time since 2014.",
+      "impact": "negative",
+      "price_reaction": "S&P -1.5% initially, then +1.5% reversal"
+    },
+    {
+      "date": "2022-03-16",
+      "symbol": "MACRO",
+      "type": "fed",
+      "title": "FOMC: First Rate Hike Since 2018 — +25bp to 0.25-0.50%",
+      "description": "Fed raised rates by 25bp, first hike since 2018. Dot plot projected 7 hikes in 2022. Powell: 'Inflation is much too high.'",
+      "impact": "positive",
+      "price_reaction": "S&P +2.2%"
+    },
+    {
+      "date": "2022-05-04",
+      "symbol": "MACRO",
+      "type": "fed",
+      "title": "FOMC: +50bp Rate Hike — Largest in 22 Years",
+      "description": "Fed raised rates 50bp to 0.75-1.00%. Powell ruled out 75bp hikes. Announced balance sheet runoff starting June 1 at $47.5B/month.",
+      "impact": "positive",
+      "price_reaction": "S&P +3.0%"
+    },
+    {
+      "date": "2022-06-10",
+      "symbol": "MACRO",
+      "type": "economic",
+      "title": "May CPI: 8.6% YoY — New 40-Year High",
+      "description": "US CPI surged to 8.6% YoY, exceeding the March high. Gasoline, shelter, and food drove the increase. Markets priced in more aggressive Fed.",
+      "impact": "negative",
+      "price_reaction": "S&P -2.9%"
+    },
+    {
+      "date": "2022-06-15",
+      "symbol": "MACRO",
+      "type": "fed",
+      "title": "FOMC: +75bp — Largest Hike Since 1994",
+      "description": "Fed raised rates 75bp to 1.50-1.75% after CPI surprise. Powell: 'Today's 75bp increase is unusually large.' Dot plot: 3.4% by year-end.",
+      "impact": "positive",
+      "price_reaction": "S&P +1.5%"
+    },
+    {
+      "date": "2022-07-27",
+      "symbol": "MACRO",
+      "type": "fed",
+      "title": "FOMC: +75bp Hike to 2.25-2.50%",
+      "description": "Fed raised rates 75bp again. Powell: 'Another unusually large increase could be appropriate.' But noted growth slowing. Markets rallied on perceived dovish tone.",
+      "impact": "positive",
+      "price_reaction": "S&P +2.6%"
+    },
+    {
+      "date": "2022-08-26",
+      "symbol": "MACRO",
+      "type": "fed",
+      "title": "Jackson Hole: Powell's Hawkish 8-Minute Speech",
+      "description": "Powell's brief but forceful Jackson Hole speech: 'Reducing inflation will bring some pain.' Markets tumbled on hawkish message.",
+      "impact": "negative",
+      "price_reaction": "S&P -3.4%"
+    },
+    {
+      "date": "2022-09-13",
+      "symbol": "MACRO",
+      "type": "economic",
+      "title": "August CPI: 8.3% YoY (Above Est)",
+      "description": "August CPI came in at 8.3% YoY vs 8.1% expected. Core CPI rose 0.6% MoM (double expectations). Worst single day of 2022.",
+      "impact": "negative",
+      "price_reaction": "S&P -4.3%, Nasdaq -5.2%"
+    },
+    {
+      "date": "2022-09-21",
+      "symbol": "MACRO",
+      "type": "fed",
+      "title": "FOMC: +75bp to 3.00-3.25% — Dot Plot Shocker",
+      "description": "Fed hiked 75bp for third straight time. Dot plot showed 4.6% terminal rate (vs 3.8% in June). Powell: 'We need to see inflation coming down.'",
+      "impact": "negative",
+      "price_reaction": "S&P -1.7%"
+    },
+    {
+      "date": "2022-11-02",
+      "symbol": "MACRO",
+      "type": "fed",
+      "title": "FOMC: +75bp to 3.75-4.00% — Dovish Signals",
+      "description": "Fed hiked 75bp (fourth straight) but signaled slower pace ahead. Powell: 'Time to slow pace of hikes may come as soon as December.'",
+      "impact": "positive",
+      "price_reaction": "S&P +1.8%"
+    },
+    {
+      "date": "2022-11-10",
+      "symbol": "MACRO",
+      "type": "economic",
+      "title": "October CPI: 7.7% YoY (Below Est) — Peak Inflation Narrative",
+      "description": "October CPI came in below expectations at 7.7% (vs 7.9% est). Core CPI: 6.3% vs 6.5% est. Best single day for equities since 2020.",
+      "impact": "positive",
+      "price_reaction": "S&P +5.5%, Nasdaq +7.4%"
+    },
+    {
+      "date": "2022-12-14",
+      "symbol": "MACRO",
+      "type": "fed",
+      "title": "FOMC: +50bp to 4.25-4.50% — Slowdown Confirmed",
+      "description": "Fed downshifted to 50bp hike. Dot plot: terminal rate 5.1%. Powell: 'We have more work to do.' Hawkish messaging despite smaller hike.",
+      "impact": "negative",
+      "price_reaction": "S&P -2.5%"
+    },
+    {
+      "date": "2023-02-01",
+      "symbol": "MACRO",
+      "type": "fed",
+      "title": "FOMC: +25bp to 4.50-4.75% — 'Disinflation Has Begun'",
+      "description": "Fed hiked 25bp, further slowing pace. Powell acknowledged: 'The disinflationary process has begun.' Dovish tone sent markets higher.",
+      "impact": "positive",
+      "price_reaction": "S&P +1.1%"
+    },
+    {
+      "date": "2023-03-10",
+      "symbol": "MACRO",
+      "type": "macro",
+      "title": "Silicon Valley Bank Collapse",
+      "description": "SVB, the 16th largest US bank, collapsed after a bank run — the largest US bank failure since 2008. Triggered regional banking crisis.",
+      "impact": "negative",
+      "price_reaction": "S&P -1.5%, regional bank stocks -20%+"
+    },
+    {
+      "date": "2023-03-19",
+      "symbol": "MACRO",
+      "type": "macro",
+      "title": "UBS Acquires Credit Suisse in Emergency Deal",
+      "description": "UBS agreed to buy Credit Suisse for CHF 3 billion in a government-brokered emergency takeover. Swiss regulator wrote down CHF 16B of AT1 bonds to zero.",
+      "impact": "neutral",
+      "price_reaction": "European bank stocks mixed"
+    },
+    {
+      "date": "2023-03-22",
+      "symbol": "MACRO",
+      "type": "fed",
+      "title": "FOMC: +25bp to 4.75-5.00% — Banking Crisis Dovishness",
+      "description": "Despite banking crisis, Fed hiked 25bp. Powell: 'Rate cuts are not in our base case.' But dot plot still showed 5.1% terminal. Markets priced in cuts by year-end.",
+      "impact": "positive",
+      "price_reaction": "S&P +0.3%"
+    },
+    {
+      "date": "2023-05-03",
+      "symbol": "MACRO",
+      "type": "fed",
+      "title": "FOMC: +25bp to 5.00-5.25% — Hints at Pause",
+      "description": "Fed hiked 25bp for potentially the last time in this cycle. Removed language about 'additional policy firming'. Markets bet on July rate cut.",
+      "impact": "positive",
+      "price_reaction": "S&P -0.7%"
+    },
+    {
+      "date": "2023-06-02",
+      "symbol": "MACRO",
+      "type": "macro",
+      "title": "Debt Ceiling Deal Signed into Law",
+      "description": "President Biden signed the Fiscal Responsibility Act, suspending the debt ceiling until January 2025, averting a catastrophic US default.",
+      "impact": "positive",
+      "price_reaction": "S&P +1.5%"
+    },
+    {
+      "date": "2023-07-26",
+      "symbol": "MACRO",
+      "type": "fed",
+      "title": "FOMC: +25bp to 5.25-5.50% — 'Data Dependent'",
+      "description": "Fed hiked 25bp after June pause. Powell: 'We're going to make decisions meeting by meeting.' Core inflation at 4.8%.",
+      "impact": "neutral",
+      "price_reaction": "S&P flat"
+    },
+    {
+      "date": "2023-10-07",
+      "symbol": "MACRO",
+      "type": "macro",
+      "title": "Hamas Attacks Israel — Middle East Conflict Escalates",
+      "description": "Hamas launched a massive attack on Israel, killing 1,200+. Israel declared war. Oil prices surged on geopolitical risk.",
+      "impact": "negative",
+      "price_reaction": "S&P -0.3%, oil +4.3%, defense stocks +5%"
+    },
+    {
+      "date": "2023-11-14",
+      "symbol": "MACRO",
+      "type": "economic",
+      "title": "October CPI: 3.2% YoY (Below Est) — Soft Landing Hope",
+      "description": "October CPI came in at 3.2% vs 3.3% est, the first downside surprise in months. Core CPI: 4.0% vs 4.1% est. Rate cut expectations surged.",
+      "impact": "positive",
+      "price_reaction": "S&P +1.9%, Nasdaq +2.4%"
+    },
+    {
+      "date": "2023-12-13",
+      "symbol": "MACRO",
+      "type": "fed",
+      "title": "FOMC: Hold at 5.25-5.50% — Dovish Pivot — Rate Cuts Coming",
+      "description": "Fed held rates steady. Dot plot showed 75bp of cuts in 2024 (up from 50bp in September). Powell: 'We're likely at or near the peak rate.' Markets priced in 150bp of cuts.",
+      "impact": "positive",
+      "price_reaction": "S&P +1.4%, Dow to all-time high"
+    },
+    {
+      "date": "2024-01-31",
+      "symbol": "MACRO",
+      "type": "fed",
+      "title": "FOMC: Hold at 5.25-5.50% — March Cut 'Probably Not'",
+      "description": "Fed held rates. Powell: 'We want to see more good data.' Explicitly said March rate cut unlikely. Pushed back on market pricing.",
+      "impact": "negative",
+      "price_reaction": "S&P -1.6%"
+    },
+    {
+      "date": "2024-04-10",
+      "symbol": "MACRO",
+      "type": "economic",
+      "title": "March CPI: 3.5% YoY (Third Hot Print In a Row)",
+      "description": "CPI rose 3.5% YoY vs 3.4% est. Third consecutive hot inflation print. Markets repriced: first cut pushed from June to September.",
+      "impact": "negative",
+      "price_reaction": "S&P -1.0%, 10Y yield +18bp to 4.55%"
+    },
+    {
+      "date": "2024-08-02",
+      "symbol": "MACRO",
+      "type": "economic",
+      "title": "July Jobs Report Triggers 'Sahm Rule' Recession Signal",
+      "description": "US added only 114K jobs vs 175K est. Unemployment rose to 4.3%, triggering the Sahm Rule recession indicator. Market panic.",
+      "impact": "negative",
+      "price_reaction": "S&P -1.8%, Nasdaq -2.4%, VIX spiked to 25"
+    },
+    {
+      "date": "2024-08-05",
+      "symbol": "MACRO",
+      "type": "macro",
+      "title": "Global Market Rout — Japan Carry Trade Unwind",
+      "description": "Nikkei crashed -12.4% (worst since 1987 Black Monday). Yen carry trade unwind triggered global margin calls. S&P intraday -4.3%. VIX hit 65.",
+      "impact": "negative",
+      "price_reaction": "S&P -3.0%, Nikkei -12.4%, crypto -15%"
+    },
+    {
+      "date": "2024-09-18",
+      "symbol": "MACRO",
+      "type": "fed",
+      "title": "FOMC: -50bp Jumbo Cut to 4.75-5.00% — New Easing Cycle Begins",
+      "description": "Fed started easing cycle with outsized 50bp cut (first cut since 2020). Powell: 'We're committed to maintaining economy's strength.' Projected 100bp more cuts by year-end 2025.",
+      "impact": "positive",
+      "price_reaction": "S&P -0.3% (volatile, ended flat)"
+    },
+    {
+      "date": "2024-11-06",
+      "symbol": "MACRO",
+      "type": "macro",
+      "title": "Trump Wins 2024 Presidential Election — GOP Sweep",
+      "description": "Donald Trump won the 2024 presidential election with a decisive victory. Republicans also won Senate and held House, delivering a 'red sweep'.",
+      "impact": "positive",
+      "price_reaction": "S&P +3.5%, banks +10%, small caps +5.8%, USD +1.5%"
+    },
+    {
+      "date": "2024-11-07",
+      "symbol": "MACRO",
+      "type": "fed",
+      "title": "FOMC: -25bp to 4.50-4.75% — Deja Vu",
+      "description": "Fed cut 25bp as expected. Powell said election would have no near-term effect on policy and refused to say whether he would resign if Trump asked.",
+      "impact": "positive",
+      "price_reaction": "S&P +0.7%"
+    },
+    {
+      "date": "2024-12-18",
+      "symbol": "MACRO",
+      "type": "fed",
+      "title": "FOMC: -25bp to 4.25-4.50% — Hawkish Cut — Fewer 2025 Cuts",
+      "description": "Fed cut 25bp but slashed 2025 rate cut projections from 4 to 2 cuts. Powell: 'We're in a new phase.' Inflation still above target. Markets sold off hard.",
+      "impact": "negative",
+      "price_reaction": "S&P -3.0%, 10Y yield +12bp, USD +1.2%"
+    }
+  ]
+}
